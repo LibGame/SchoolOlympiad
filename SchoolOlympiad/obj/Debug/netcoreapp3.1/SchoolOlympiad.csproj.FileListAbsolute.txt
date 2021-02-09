@@ -1,0 +1,13 @@
+C:\Users\MaestroTDK\source\repos\SchoolOlympiad\SchoolOlympiad\bin\Debug\netcoreapp3.1\SchoolOlympiad.exe
+C:\Users\MaestroTDK\source\repos\SchoolOlympiad\SchoolOlympiad\bin\Debug\netcoreapp3.1\SchoolOlympiad.deps.json
+C:\Users\MaestroTDK\source\repos\SchoolOlympiad\SchoolOlympiad\bin\Debug\netcoreapp3.1\SchoolOlympiad.runtimeconfig.json
+C:\Users\MaestroTDK\source\repos\SchoolOlympiad\SchoolOlympiad\bin\Debug\netcoreapp3.1\SchoolOlympiad.runtimeconfig.dev.json
+C:\Users\MaestroTDK\source\repos\SchoolOlympiad\SchoolOlympiad\bin\Debug\netcoreapp3.1\SchoolOlympiad.dll
+C:\Users\MaestroTDK\source\repos\SchoolOlympiad\SchoolOlympiad\bin\Debug\netcoreapp3.1\SchoolOlympiad.pdb
+C:\Users\MaestroTDK\source\repos\SchoolOlympiad\SchoolOlympiad\obj\Debug\netcoreapp3.1\SchoolOlympiad.csprojAssemblyReference.cache
+C:\Users\MaestroTDK\source\repos\SchoolOlympiad\SchoolOlympiad\obj\Debug\netcoreapp3.1\SchoolOlympiad.csproj.CoreCompileInputs.cache
+C:\Users\MaestroTDK\source\repos\SchoolOlympiad\SchoolOlympiad\obj\Debug\netcoreapp3.1\SchoolOlympiad.AssemblyInfoInputs.cache
+C:\Users\MaestroTDK\source\repos\SchoolOlympiad\SchoolOlympiad\obj\Debug\netcoreapp3.1\SchoolOlympiad.AssemblyInfo.cs
+C:\Users\MaestroTDK\source\repos\SchoolOlympiad\SchoolOlympiad\obj\Debug\netcoreapp3.1\SchoolOlympiad.dll
+C:\Users\MaestroTDK\source\repos\SchoolOlympiad\SchoolOlympiad\obj\Debug\netcoreapp3.1\SchoolOlympiad.pdb
+C:\Users\MaestroTDK\source\repos\SchoolOlympiad\SchoolOlympiad\obj\Debug\netcoreapp3.1\SchoolOlympiad.genruntimeconfig.cache
